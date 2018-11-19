@@ -1,17 +1,17 @@
 <!--
-  * browser: task-priority-score
+  * browser: project-management-priority-score
   * tracker: 51cc546dcbae8fc3c3b514ea559154bc
-  * version: 1.3.0
-  * updated: 2018-11-04T20:16:09Z
+  * version: 2.0.0
+  * updated: 2018-11-19T06:17:59Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
 
-# Task priority score
+# Project management priority score
 
 <img src="README.png" alt="Objective" style="width: 100%;"/>
 
-Task priority score is a simple way to rank items, such as items in a todo list, or feature requests, or bug reports. This page explains the task priority score that our teams use.
+Project management  priority score is a simple way to rank items, such as goals, tasks, issues, etc. This page explains the task priority score that our teams use.
 
 * Priority 0 = Emergency
 * Priority 1 = Must have
