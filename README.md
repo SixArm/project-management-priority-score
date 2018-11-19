@@ -1,5 +1,5 @@
 <!--
-  * browser: project-management-priority-score
+  * browser: sixarm-project-management-priority-score
   * tracker: 51cc546dcbae8fc3c3b514ea559154bc
   * version: 2.0.0
   * updated: 2018-11-19T06:17:59Z
@@ -7,11 +7,11 @@
   * options: commentable
 -->
 
-# Project management priority score
+# SixArm.com → Project management → <br> Priority score
 
 <img src="README.png" alt="Objective" style="width: 100%;"/>
 
-Project management  priority score is a simple way to rank items, such as goals, tasks, issues, etc. This page explains the task priority score that our teams use.
+Priority score is a simple way to rank items, such as goals, tasks, issues, etc. This page explains the task priority score that our teams use.
 
 * Priority 0 = Emergency
 * Priority 1 = Must have
