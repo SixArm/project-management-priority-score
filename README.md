@@ -1,5 +1,5 @@
 <!--
-  * browser: sixarm-project-management-priority-score
+0;95;0c  * browser: sixarm-project-management-priority-score
   * tracker: 51cc546dcbae8fc3c3b514ea559154bc
   * version: 2.0.0
   * updated: 2018-11-19T06:17:59Z
@@ -9,7 +9,7 @@
 
 # SixArm.com → Project management → <br> Priority score
 
-<img src="README.png" alt="Objective" style="width: 100%;"/>
+<img src="README.png" alt="Priority" style="width: 100%;"/>
 
 Priority score is a simple way to rank items, such as goals, tasks, issues, etc. This page explains the task priority score that our teams use.
 
