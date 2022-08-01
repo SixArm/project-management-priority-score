@@ -7,24 +7,24 @@
   * options: commentable
 -->
 
-# SixArm.com → Project management → <br> Priority score
+# Project management priority score
 
 <img src="README.png" alt="Priority" style="width: 100%;"/>
 
 Priority score is a simple way to rank items, such as goals, tasks, issues, etc. This page explains the task priority score that our teams use.
 
-* Priority 0 = Emergency
-* Priority 1 = Must have
-* Priority 2 = Should have
-* Priority 3 = Could have
-* Priority 4 = Would have
+* Priority 1 = Immediate
+* Priority 2 = Must have
+* Priority 3 = Should have
+* Priority 4 = Could have
+* Priority 5 = Would have
 
 You can freely customize this task priority score for your own needs. We welcome feedback and also suggestions for improvement.
 
 These are thanks to many clients and many years of experience.
 
 
-### Priority 0 = Emergency
+### Priority 1 = Immediate
 
 * Summary: Do this immediately, update team immediately, and work 24x7 to solution.
 
@@ -39,7 +39,7 @@ These are thanks to many clients and many years of experience.
 * Incident examples: System is down, or is corrupting data, or significant customers are entirely blocked.
 
 
-### Priority 1 = Must have
+### Priority 2 = Must have
 
 * Summary: Urgent work that has very high value and very high need.
 
@@ -56,7 +56,7 @@ These are thanks to many clients and many years of experience.
 * Incident examples: typically most system crashes, or most data loss, or regressions, or a critical issues for which there is no work around yet other areas of the system are still functioning.
 
 
-### Priority 2 = Should have
+### Priority 3 = Should have
 
 * Summary: Wanted for current milestone; most work should have this priority.
 
@@ -69,7 +69,7 @@ These are thanks to many clients and many years of experience.
 * Incident examples: A bug that has a reasonable workaround, and will be addressed in next significant update.
 
 
-### Priority 3 = Could have
+### Priority 4 = Could have
 
 * Summary: Desirable but not necessary; could improve user experience or customer satisfaction; could take little development time/effort/cost. These will typically be included if time and resources permit.
 
@@ -82,10 +82,9 @@ These are thanks to many clients and many years of experience.
 * Incident examples: a bug in a less-used area, or that has a workaround, or that causes insignificant business value loss.
 
 
-### Priority 4 = Would have
+### Priority 5 = Would have
 
-* Summary: least-wanted and/or lowest-value and/or smallest-visibilty items for this milestone; still possible 
-to be included in a milestone (though unlikely) and/or still possible to be included in a future milestone.
+* Summary: least-wanted/lowest-value items; unlikely to happen any time soon; defer considering until a longer term future milestone.
 
 * Response time goal? Within X months.
 
