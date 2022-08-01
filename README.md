@@ -9,8 +9,6 @@
 
 # Project management priority score
 
-<img src="README.png" alt="Priority" style="width: 100%;"/>
-
 Priority score is a simple way to rank items, such as goals, tasks, issues, etc. This page explains the task priority score that our teams use.
 
 * Priority 1 = Immediate
