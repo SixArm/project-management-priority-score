@@ -26,13 +26,13 @@ These are thanks to many clients and many years of experience.
 
 * Summary: Do this immediately, update team immediately, and work 24x7 to solution.
 
-* Impact: Severe business loss that is continuing and/or worsening, or the team is in failure state, etc.
+* Impact: Major business opportunity and/or danger that is continuing and/or growing, with high risk, etc.
 
 * Response time goal? Within X minutes.
 
 * Milestone blocker? Yes.
 
-* Feature examples: None, because no feature is this important.
+* Feature examples: mission-critical to a highly valuable customer, segment, or channel; if the requirement is not solved immediately then there is no other way to make it up.
 
 * Incident examples: System is down, or is corrupting data, or significant customers are entirely blocked.
 
